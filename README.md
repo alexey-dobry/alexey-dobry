@@ -1,6 +1,8 @@
-![image](https://github.com/alexey-dobry/alexey-dobry/assets/139956979/11827f40-4eb9-4083-bff0-e2a42988f97c)
-- 👋 Hi, I’m @alexey-dobry
-- 👀 I’m interested in becoming programer
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: Nehaenkog23@gmail.com 
+![Header](profile-img.png)
+- 👀 I’m interested in collaborating and creating projects.
+- 🌱 I’m currently learning: **Python,C++,HTML,CSS**
+- 📫 How to reach me **Nehaenkog23@gmail.com** 
+<h3 align="left">Languages and Tools:</h3>
 
+<p align="left"> <a href="https://www.python.org/doc/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/></a></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alexey-dobry&show_icons=true&locale=en&theme=shadow_blue" /></p>
