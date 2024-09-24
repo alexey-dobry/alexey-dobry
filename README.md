@@ -1,5 +1,5 @@
 ![Header](profile-img.png)
-- 📌 I'm currently working on personal website
+- 📌 I'm currently working on personal website and project on yandex couse
 - 👀 I’m interested in collaborating and creating projects.
 - 🌱 I’m currently learning: **HTML,CSS,JavaScript,Java**
 - 📫 How to reach me **Nehaenkog23@gmail.com** 
