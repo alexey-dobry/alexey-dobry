@@ -1,6 +1,6 @@
 ![Header](github-header-image.png)
 ### 👋 About me:
-- 📫 I'm software developer from Moscow. I write code mostly on Golang
+- 📫 I'm software developer from Moscow. I write code mostly in Golang
 - 📌 I'm currently working on goodworsd-service and webchat application
 - 👀 I’m interested in participating in interesting projects.
 - 🌱 I’m currently learning: **Go,gRPC,WebSocket,Goroutines**
@@ -16,6 +16,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> 
   <a href="https://docs.kernel.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"> </a>
   <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="40" height="40"> </a>
+  <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Psql" width="40" height="40"> </a>
+  <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="Mysql" width="40" height="40"> </a>
 </div> 
 
 ### 💻 Stats
