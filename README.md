@@ -1,9 +1,9 @@
 ![Header](github-header-image.png)
 ### 👋 About me:
 - 📫 I'm software developer from Moscow. I write code mostly in Golang
-- 📌 I'm currently working on goodworsd-service and webchat application
+- 📌 I'm currently working on afisha-service and web-messenger applications
 - 👀 I’m interested in participating in interesting projects.
-- 🌱 I’m currently learning: **Go,gRPC,WebSocket,Goroutines**
+- 🌱 I’m currently learning: **Go,gRPC,WebSocket**
 
 ### 🔧 Languages and Tools:
 
